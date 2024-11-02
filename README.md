@@ -55,7 +55,7 @@ To run the solutions, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/project-euler.git
+   git clone https://github.com/omerfisler/projectEuler.git
    cd project-euler/ID_<number>
    g++ *.cpp -o run.exe
    ./run.exe
